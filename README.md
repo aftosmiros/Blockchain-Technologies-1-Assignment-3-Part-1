@@ -76,11 +76,7 @@ The contract can be deployed on a testnet using tools like Remix and MetaMask:
 
 ### Screenshots
 
-#### Contract Deployment
-![Deployment Screenshot](images/deployment.png)
-
-#### Transaction Interaction
-![Transaction Screenshot](images/transaction.png)
+The screenshots you can see in the file `sepoliascreens.pdf`
 
 ## References
 
