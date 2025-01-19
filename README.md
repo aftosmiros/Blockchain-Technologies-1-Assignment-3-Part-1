@@ -41,8 +41,7 @@ The contract can be deployed on a testnet using tools like Remix and MetaMask:
 
 ### Structure
 ```
-├── contracts
-│   └── AITU_SE2324_KV.sol       # ERC-20 token contract
+├── AITU_SE2324_KV.sol           # ERC-20 token contract
 ├── README.md                    # Documentation
 ├── LICENSE                      # License file (optional)
 ├── screenshots.pdf              # Directory for screenshots or demo images (optional)
