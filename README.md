@@ -53,12 +53,12 @@ The contract can be deployed on a testnet using tools like Remix and MetaMask:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AITU_SE2324_KV.git
-   cd AITU_SE2324_KV
+   git clone https://github.com/aftosmiros/Blockchain-Technologies-1-Assignment-3-Part-1
+   cd Blockchain-Technologies-1-Assignment-3-Part-1
    ```
 
 2. Open the contract in Remix:
-   - Navigate to `contracts/AITU_SE2324_KV.sol`.
+   - Navigate to `AITU_SE2324_KV.sol`.
    - Compile the contract with the correct Solidity version (`^0.8.0`).
 
 3. Deploy and interact with the contract.
@@ -76,7 +76,7 @@ The contract can be deployed on a testnet using tools like Remix and MetaMask:
 
 ### Screenshots
 
-The screenshots you can see in the file `sepoliascreens.pdf`
+The screenshots you can see in the file `screenshots.pdf`
 
 ## References
 
